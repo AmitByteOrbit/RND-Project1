@@ -14,6 +14,7 @@ Here I built a small office using the building editor.
 
 ### 2. Model any object of your choice using the Model Editor
 I decided to extend the robot from the online tutorial for my model.
+![robot image](./images/robot.png)
 
 ### 3. Import your structure and two instances of your model
 My world file is located in the `world` folder - `project-world`.
@@ -21,6 +22,8 @@ My world file is located in the `world` folder - `project-world`.
 
 ### 4. Import at least one model from the Gazebo online library
 Here is the world with the model and imports.
+![full image](./images/full_pic.png)
 
 ### 5. Write a C++ World Plugin to interact with your world
 The plugin is located in the `script` folder. Here is the output.
+![plugin success](./images/plugin.png)
