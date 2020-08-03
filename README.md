@@ -3,7 +3,8 @@ Project1 Gazebo basics - Udacity Robotics Nanodegree
 
 *Run Notes: 
 set-gazebo_plugin_path.sh contains the path to be exported for the plugin
-set_model_path.sh sets the model path for Gazebo 7.0 since it does not give you the ability to do this in the GUI.*
+set_model_path.sh sets the model path for Gazebo 7.0 since it does not give you the ability to do this in the GUI.
+Copy the text from each of the files and run on command line (running as sh didn't seem to work for me)*
 
 ## Submission outline
 
