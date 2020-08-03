@@ -9,9 +9,7 @@ set_model_path.sh sets the model path for Gazebo 7.0 since it does not give you 
 
 ### 1. Build a single floor wall structure using the Building Editor
 Here I built a small office using the building editor.
-<p>
-  <img src="./images/building.png> />
-</p>
+![building image](./images/building.png)
 
 
 ### 2. Model any object of your choice using the Model Editor
