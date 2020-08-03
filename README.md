@@ -8,7 +8,8 @@ set_model_path.sh sets the model path for Gazebo 7.0 since it does not give you 
 ## Submission outline
 
 ### 1. Build a single floor wall structure using the Building Editor
-Here I build a small office using the building editor.
+Here I built a small office using the building editor.
+
 
 ### 2. Model any object of your choice using the Model Editor
 I decided to extend the robot from the online tutorial for my model.
